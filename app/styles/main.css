@@ -1,0 +1,11 @@
+body {
+    background: #ccc;
+}
+
+.hero-unit {
+    background: #fff;
+    margin: 50px auto 0 auto;
+    padding: 40px; 
+    border: 1px solid #c96; 
+    width: 960px;
+}
